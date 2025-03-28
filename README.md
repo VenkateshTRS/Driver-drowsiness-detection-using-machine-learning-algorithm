@@ -34,6 +34,7 @@ We did 50 epochs, to get a good accuracy from the model i.e. 98% for training ac
 ![Open_eyes](C:\Users\ASUS\Desktop\Screenshot (266))
 2. Close Eyes<br />
 Here we detect wheater the eyes are closed and count the number of frames for which the eyes were closed (which is 10 frame) greater then that the Alarm will ring and the WARNING sign is displayed.
-![Closed_eyes](https://user-images.githubusercontent.com/16632408/159187305-68cbdee3-8325-4216-85e3-7dbb66a429fb.png)
+![Closed_eyes](C:\Users\ASUS\Desktop\Screenshot (266))
+)
 
 
