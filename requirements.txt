@@ -1,0 +1,5 @@
+opencv-python==4.5.5.64
+pygame==2.1.0
+numpy==1.23.5
+tensorflow==2.10.0
+keras==2.10.0

@@ -1,0 +1,3 @@
+.\virtual-env\Scripts\activate
+
+python detect_drowsiness.py
