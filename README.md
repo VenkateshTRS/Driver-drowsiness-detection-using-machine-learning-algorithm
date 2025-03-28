@@ -31,10 +31,10 @@ We did 50 epochs, to get a good accuracy from the model i.e. 98% for training ac
 
 ## The Output 
 1. Open Eyes<br />
-![Open_eyes](C:\Users\ASUS\Desktop\Screenshot (266))
+![Open_eyes](https://github.com/VenkateshTRS/Driver-drowsiness-detection-using-machine-learning-algorithm/blob/main/Screenshot%20(276).png)
 2. Close Eyes<br />
 Here we detect wheater the eyes are closed and count the number of frames for which the eyes were closed (which is 10 frame) greater then that the Alarm will ring and the WARNING sign is displayed.
-![Closed_eyes](C:\Users\ASUS\Desktop\Screenshot (266))
+![Closed_eyes](https://github.com/VenkateshTRS/Driver-drowsiness-detection-using-machine-learning-algorithm/blob/main/Screenshot%20(277).png))
 )
 
 
